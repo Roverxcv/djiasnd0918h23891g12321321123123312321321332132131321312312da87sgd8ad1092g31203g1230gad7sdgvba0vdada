@@ -1,3 +1,0 @@
-# Botjji
-# botcloud
-# botcloud
